@@ -48,22 +48,22 @@ Execute the application to launch the Employee Management System and begin explo
 ## Technologies Used
 The project leverages the following technologies and dependencies:
 
-### => Spring Boot:
+### 1. Spring Boot:
 A powerful and convention-over-configuration-based framework for creating Java-based enterprise applications.
 
-### => Spring Web MVC:
+### 2. Spring Web MVC:
 A module within the Spring Framework for building web applications.
 
-### => Spring Data JPA: 
+### 3. Spring Data JPA: 
 Part of the larger Spring Data family, simplifying data access in Spring applications through the JPA standard.
 
-### => Hibernate: 
+### 4. Hibernate: 
 An object-relational mapping framework for Java applications, ensuring smooth interaction with databases.
 
-### =>Thymeleaf:
+### 5. Thymeleaf:
 A modern server-side Java template engine for web and standalone environments, enhancing dynamic content rendering.
 
-### => H2 Database: 
+### 6. H2 Database: 
 An in-memory database that provides a quick and efficient solution for development and testing.
 
 License
