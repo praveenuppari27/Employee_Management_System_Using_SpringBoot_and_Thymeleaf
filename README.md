@@ -33,16 +33,16 @@ Key dependencies such as Spring Boot, Spring Web MVC, Spring Data JPA, Hibernate
 ## Getting Started
 To set up and explore the project, follow these steps:
 
-### Clone Repository: 
+### 👉 Clone Repository: 
 Clone this repository to your local machine using git clone https://github.com/praveenuppari27/Employee_Management_System_Using_SpringBoot_and_Thymeleaf
 
-### Database Configuration:
+### 👉 Database Configuration:
 Configure the database settings in the application.properties file, adapting it to your preferred database if needed.
 
-### IDE Setup: 
+### 👉 IDE Setup: 
 Open the project in an Integrated Development Environment (IDE) such as Eclipse STS.
 
-### Run Application: 
+### 👉 Run Application: 
 Execute the application to launch the Employee Management System and begin exploring its features.
 
 ## Technologies Used
